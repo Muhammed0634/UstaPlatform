@@ -1,0 +1,48 @@
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.Rules.Sadakat.deps.json
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.Rules.Sadakat.dll
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.Rules.Sadakat.pdb
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.Application.dll
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.Domain.dll
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.Application.pdb
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.Domain.pdb
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Sadakat\obj\Debug\net8.0\UstaPlatform.Rules.Sadakat.csproj.AssemblyReference.cache
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Sadakat\obj\Debug\net8.0\UstaPlatform.Rules.Sadakat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Sadakat\obj\Debug\net8.0\UstaPlatform.Rules.Sadakat.AssemblyInfoInputs.cache
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Sadakat\obj\Debug\net8.0\UstaPlatform.Rules.Sadakat.AssemblyInfo.cs
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Sadakat\obj\Debug\net8.0\UstaPlatform.Rules.Sadakat.csproj.CoreCompileInputs.cache
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Sadakat\obj\Debug\net8.0\UstaPlat.753ABD74.Up2Date
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Sadakat\obj\Debug\net8.0\UstaPlatform.Rules.Sadakat.dll
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Sadakat\obj\Debug\net8.0\refint\UstaPlatform.Rules.Sadakat.dll
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Sadakat\obj\Debug\net8.0\UstaPlatform.Rules.Sadakat.pdb
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Sadakat\obj\Debug\net8.0\ref\UstaPlatform.Rules.Sadakat.dll
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.App.deps.json
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.App.runtimeconfig.json
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.App.exe
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.App.dll
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.Infrastructure.dll
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.App.pdb
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.Infrastructure.pdb
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.App.deps.json
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.App.runtimeconfig.json
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.App.exe
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.Rules.Sadakat.deps.json
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.Rules.Sadakat.dll
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.Rules.Sadakat.pdb
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.App.dll
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.Application.dll
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.Domain.dll
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.Infrastructure.dll
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.Application.pdb
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.App.pdb
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.Domain.pdb
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Sadakat\bin\Debug\net8.0\UstaPlatform.Infrastructure.pdb
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Sadakat\obj\Debug\net8.0\UstaPlatform.Rules.Sadakat.csproj.AssemblyReference.cache
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Sadakat\obj\Debug\net8.0\UstaPlatform.Rules.Sadakat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Sadakat\obj\Debug\net8.0\UstaPlatform.Rules.Sadakat.AssemblyInfoInputs.cache
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Sadakat\obj\Debug\net8.0\UstaPlatform.Rules.Sadakat.AssemblyInfo.cs
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Sadakat\obj\Debug\net8.0\UstaPlatform.Rules.Sadakat.csproj.CoreCompileInputs.cache
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Sadakat\obj\Debug\net8.0\UstaPlat.753ABD74.Up2Date
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Sadakat\obj\Debug\net8.0\UstaPlatform.Rules.Sadakat.dll
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Sadakat\obj\Debug\net8.0\refint\UstaPlatform.Rules.Sadakat.dll
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Sadakat\obj\Debug\net8.0\UstaPlatform.Rules.Sadakat.pdb
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Sadakat\obj\Debug\net8.0\ref\UstaPlatform.Rules.Sadakat.dll

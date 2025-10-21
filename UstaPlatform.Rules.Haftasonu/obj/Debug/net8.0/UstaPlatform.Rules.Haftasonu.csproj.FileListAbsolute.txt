@@ -1,0 +1,34 @@
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Haftasonu\bin\Debug\net8.0\UstaPlatform.Rules.Haftasonu.deps.json
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Haftasonu\bin\Debug\net8.0\UstaPlatform.Rules.Haftasonu.dll
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Haftasonu\bin\Debug\net8.0\UstaPlatform.Rules.Haftasonu.pdb
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Haftasonu\bin\Debug\net8.0\UstaPlatform.Application.dll
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Haftasonu\bin\Debug\net8.0\UstaPlatform.Domain.dll
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Haftasonu\bin\Debug\net8.0\UstaPlatform.Application.pdb
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Haftasonu\bin\Debug\net8.0\UstaPlatform.Domain.pdb
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Haftasonu\obj\Debug\net8.0\UstaPlatform.Rules.Haftasonu.csproj.AssemblyReference.cache
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Haftasonu\obj\Debug\net8.0\UstaPlatform.Rules.Haftasonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Haftasonu\obj\Debug\net8.0\UstaPlatform.Rules.Haftasonu.AssemblyInfoInputs.cache
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Haftasonu\obj\Debug\net8.0\UstaPlatform.Rules.Haftasonu.AssemblyInfo.cs
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Haftasonu\obj\Debug\net8.0\UstaPlatform.Rules.Haftasonu.csproj.CoreCompileInputs.cache
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Haftasonu\obj\Debug\net8.0\UstaPlat.28543BFD.Up2Date
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Haftasonu\obj\Debug\net8.0\UstaPlatform.Rules.Haftasonu.dll
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Haftasonu\obj\Debug\net8.0\refint\UstaPlatform.Rules.Haftasonu.dll
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Haftasonu\obj\Debug\net8.0\UstaPlatform.Rules.Haftasonu.pdb
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Rules.Haftasonu\obj\Debug\net8.0\ref\UstaPlatform.Rules.Haftasonu.dll
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Haftasonu\bin\Debug\net8.0\UstaPlatform.Rules.Haftasonu.deps.json
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Haftasonu\bin\Debug\net8.0\UstaPlatform.Rules.Haftasonu.dll
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Haftasonu\bin\Debug\net8.0\UstaPlatform.Rules.Haftasonu.pdb
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Haftasonu\bin\Debug\net8.0\UstaPlatform.Application.dll
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Haftasonu\bin\Debug\net8.0\UstaPlatform.Domain.dll
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Haftasonu\bin\Debug\net8.0\UstaPlatform.Application.pdb
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Haftasonu\bin\Debug\net8.0\UstaPlatform.Domain.pdb
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Haftasonu\obj\Debug\net8.0\UstaPlatform.Rules.Haftasonu.csproj.AssemblyReference.cache
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Haftasonu\obj\Debug\net8.0\UstaPlatform.Rules.Haftasonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Haftasonu\obj\Debug\net8.0\UstaPlatform.Rules.Haftasonu.AssemblyInfoInputs.cache
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Haftasonu\obj\Debug\net8.0\UstaPlatform.Rules.Haftasonu.AssemblyInfo.cs
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Haftasonu\obj\Debug\net8.0\UstaPlatform.Rules.Haftasonu.csproj.CoreCompileInputs.cache
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Haftasonu\obj\Debug\net8.0\UstaPlat.28543BFD.Up2Date
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Haftasonu\obj\Debug\net8.0\UstaPlatform.Rules.Haftasonu.dll
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Haftasonu\obj\Debug\net8.0\refint\UstaPlatform.Rules.Haftasonu.dll
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Haftasonu\obj\Debug\net8.0\UstaPlatform.Rules.Haftasonu.pdb
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Rules.Haftasonu\obj\Debug\net8.0\ref\UstaPlatform.Rules.Haftasonu.dll

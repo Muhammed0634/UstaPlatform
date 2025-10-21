@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB19ADC-4B6E-4B69-89A5-DBE1029964C0}|UstaPlatform.App\\UstaPlatform.App.csproj|c:\\users\\emjey\\desktop\\2.s\u0131n\u0131fnesne \u00F6devleri\\ustaplatform10\\ustaplatform.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB19ADC-4B6E-4B69-89A5-DBE1029964C0}|UstaPlatform.App\\UstaPlatform.App.csproj|solutionrelative:ustaplatform.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4540F9F9-6642-42E2-8D32-C51A16F7FCE4}|UstaPlatform.Infrastructure\\UstaPlatform.Infrastructure.csproj|c:\\users\\emjey\\desktop\\2.s\u0131n\u0131fnesne \u00F6devleri\\ustaplatform10\\ustaplatform.infrastructure\\inmemoryvatandasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4540F9F9-6642-42E2-8D32-C51A16F7FCE4}|UstaPlatform.Infrastructure\\UstaPlatform.Infrastructure.csproj|solutionrelative:ustaplatform.infrastructure\\inmemoryvatandasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A9630A-A474-4B74-9AC4-D2486D6E43B1}|UstaPlatform.Tests\\UstaPlatform.Tests.csproj|c:\\users\\emjey\\desktop\\2.s\u0131n\u0131fnesne \u00F6devleri\\ustaplatform10\\ustaplatform.tests\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A9630A-A474-4B74-9AC4-D2486D6E43B1}|UstaPlatform.Tests\\UstaPlatform.Tests.csproj|solutionrelative:ustaplatform.tests\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A9630A-A474-4B74-9AC4-D2486D6E43B1}|UstaPlatform.Tests\\UstaPlatform.Tests.csproj|c:\\users\\emjey\\desktop\\2.s\u0131n\u0131fnesne \u00F6devleri\\ustaplatform10\\ustaplatform.tests\\pricingenginetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A9630A-A474-4B74-9AC4-D2486D6E43B1}|UstaPlatform.Tests\\UstaPlatform.Tests.csproj|solutionrelative:ustaplatform.tests\\pricingenginetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F35F3B-FBB1-47A6-A1A6-7514B9F3430A}|UstaPlatform.Application\\UstaPlatform.Application.csproj|c:\\users\\emjey\\desktop\\2.s\u0131n\u0131fnesne \u00F6devleri\\ustaplatform10\\ustaplatform.application\\pricingengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F35F3B-FBB1-47A6-A1A6-7514B9F3430A}|UstaPlatform.Application\\UstaPlatform.Application.csproj|solutionrelative:ustaplatform.application\\pricingengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4540F9F9-6642-42E2-8D32-C51A16F7FCE4}|UstaPlatform.Infrastructure\\UstaPlatform.Infrastructure.csproj|c:\\users\\emjey\\desktop\\2.s\u0131n\u0131fnesne \u00F6devleri\\ustaplatform10\\ustaplatform.infrastructure\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4540F9F9-6642-42E2-8D32-C51A16F7FCE4}|UstaPlatform.Infrastructure\\UstaPlatform.Infrastructure.csproj|solutionrelative:ustaplatform.infrastructure\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4540F9F9-6642-42E2-8D32-C51A16F7FCE4}|UstaPlatform.Infrastructure\\UstaPlatform.Infrastructure.csproj|c:\\users\\emjey\\desktop\\2.s\u0131n\u0131fnesne \u00F6devleri\\ustaplatform10\\ustaplatform.infrastructure\\paraformatlayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4540F9F9-6642-42E2-8D32-C51A16F7FCE4}|UstaPlatform.Infrastructure\\UstaPlatform.Infrastructure.csproj|solutionrelative:ustaplatform.infrastructure\\paraformatlayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4540F9F9-6642-42E2-8D32-C51A16F7FCE4}|UstaPlatform.Infrastructure\\UstaPlatform.Infrastructure.csproj|c:\\users\\emjey\\desktop\\2.s\u0131n\u0131fnesne \u00F6devleri\\ustaplatform10\\ustaplatform.infrastructure\\inmemoryustarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4540F9F9-6642-42E2-8D32-C51A16F7FCE4}|UstaPlatform.Infrastructure\\UstaPlatform.Infrastructure.csproj|solutionrelative:ustaplatform.infrastructure\\inmemoryustarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBB0C99-34C8-4324-817E-5B5413E704E3}|UstaPlatform.Rules.Haftasonu\\UstaPlatform.Rules.Haftasonu.csproj|c:\\users\\emjey\\desktop\\2.s\u0131n\u0131fnesne \u00F6devleri\\ustaplatform10\\ustaplatform.rules.haftasonu\\haftasonuekucretikurali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBB0C99-34C8-4324-817E-5B5413E704E3}|UstaPlatform.Rules.Haftasonu\\UstaPlatform.Rules.Haftasonu.csproj|solutionrelative:ustaplatform.rules.haftasonu\\haftasonuekucretikurali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0818777-6DBF-4500-9558-BAD08B02F457}|UstaPlatform.Rules.Sadakat\\UstaPlatform.Rules.Sadakat.csproj|c:\\users\\emjey\\desktop\\2.s\u0131n\u0131fnesne \u00F6devleri\\ustaplatform10\\ustaplatform.rules.sadakat\\sadakatindirimikurali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0818777-6DBF-4500-9558-BAD08B02F457}|UstaPlatform.Rules.Sadakat\\UstaPlatform.Rules.Sadakat.csproj|solutionrelative:ustaplatform.rules.sadakat\\sadakatindirimikurali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F35F3B-FBB1-47A6-A1A6-7514B9F3430A}|UstaPlatform.Application\\UstaPlatform.Application.csproj|c:\\users\\emjey\\desktop\\2.s\u0131n\u0131fnesne \u00F6devleri\\ustaplatform10\\ustaplatform.application\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F35F3B-FBB1-47A6-A1A6-7514B9F3430A}|UstaPlatform.Application\\UstaPlatform.Application.csproj|solutionrelative:ustaplatform.application\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F35F3B-FBB1-47A6-A1A6-7514B9F3430A}|UstaPlatform.Application\\UstaPlatform.Application.csproj|c:\\users\\emjey\\desktop\\2.s\u0131n\u0131fnesne \u00F6devleri\\ustaplatform10\\ustaplatform.application\\ipricingrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F35F3B-FBB1-47A6-A1A6-7514B9F3430A}|UstaPlatform.Application\\UstaPlatform.Application.csproj|solutionrelative:ustaplatform.application\\ipricingrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F0CF39-5466-443D-A700-9E542627F8E3}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|c:\\users\\emjey\\desktop\\2.s\u0131n\u0131fnesne \u00F6devleri\\ustaplatform10\\ustaplatform.domain\\rota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F0CF39-5466-443D-A700-9E542627F8E3}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|solutionrelative:ustaplatform.domain\\rota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F0CF39-5466-443D-A700-9E542627F8E3}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|c:\\users\\emjey\\desktop\\2.s\u0131n\u0131fnesne \u00F6devleri\\ustaplatform10\\ustaplatform.domain\\cizelge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F0CF39-5466-443D-A700-9E542627F8E3}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|solutionrelative:ustaplatform.domain\\cizelge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F0CF39-5466-443D-A700-9E542627F8E3}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|c:\\users\\emjey\\desktop\\2.s\u0131n\u0131fnesne \u00F6devleri\\ustaplatform10\\ustaplatform.domain\\isemri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F0CF39-5466-443D-A700-9E542627F8E3}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|solutionrelative:ustaplatform.domain\\isemri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F0CF39-5466-443D-A700-9E542627F8E3}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|c:\\users\\emjey\\desktop\\2.s\u0131n\u0131fnesne \u00F6devleri\\ustaplatform10\\ustaplatform.domain\\talep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F0CF39-5466-443D-A700-9E542627F8E3}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|solutionrelative:ustaplatform.domain\\talep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F0CF39-5466-443D-A700-9E542627F8E3}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|c:\\users\\emjey\\desktop\\2.s\u0131n\u0131fnesne \u00F6devleri\\ustaplatform10\\ustaplatform.domain\\vatandas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F0CF39-5466-443D-A700-9E542627F8E3}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|solutionrelative:ustaplatform.domain\\vatandas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F0CF39-5466-443D-A700-9E542627F8E3}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|c:\\users\\emjey\\desktop\\2.s\u0131n\u0131fnesne \u00F6devleri\\ustaplatform10\\ustaplatform.domain\\usta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F0CF39-5466-443D-A700-9E542627F8E3}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|solutionrelative:ustaplatform.domain\\usta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 381,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 8,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PricingEngineTests.cs",
+              "DocumentMoniker": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Tests\\PricingEngineTests.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Tests\\PricingEngineTests.cs",
+              "ToolTip": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Tests\\PricingEngineTests.cs",
+              "RelativeToolTip": "UstaPlatform.Tests\\PricingEngineTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T18:37:53.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Tests\\Schedule.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Tests\\Schedule.cs",
+              "ToolTip": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Tests\\Schedule.cs",
+              "RelativeToolTip": "UstaPlatform.Tests\\Schedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T18:36:07.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InMemoryVatandasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Infrastructure\\InMemoryVatandasRepository.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Infrastructure\\InMemoryVatandasRepository.cs",
+              "ToolTip": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Infrastructure\\InMemoryVatandasRepository.cs",
+              "RelativeToolTip": "UstaPlatform.Infrastructure\\InMemoryVatandasRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:56:37.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.App\\Program.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.App\\Program.cs",
+              "ToolTip": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.App\\Program.cs",
+              "RelativeToolTip": "UstaPlatform.App\\Program.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAE8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:55:29.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SadakatIndirimiKurali.cs",
+              "DocumentMoniker": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Rules.Sadakat\\SadakatIndirimiKurali.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Rules.Sadakat\\SadakatIndirimiKurali.cs",
+              "ToolTip": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Rules.Sadakat\\SadakatIndirimiKurali.cs",
+              "RelativeToolTip": "UstaPlatform.Rules.Sadakat\\SadakatIndirimiKurali.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:55:00.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HaftasonuEkUcretiKurali.cs",
+              "DocumentMoniker": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Rules.Haftasonu\\HaftasonuEkUcretiKurali.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Rules.Haftasonu\\HaftasonuEkUcretiKurali.cs",
+              "ToolTip": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Rules.Haftasonu\\HaftasonuEkUcretiKurali.cs",
+              "RelativeToolTip": "UstaPlatform.Rules.Haftasonu\\HaftasonuEkUcretiKurali.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:54:35.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InMemoryUstaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Infrastructure\\InMemoryUstaRepository.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Infrastructure\\InMemoryUstaRepository.cs",
+              "ToolTip": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Infrastructure\\InMemoryUstaRepository.cs",
+              "RelativeToolTip": "UstaPlatform.Infrastructure\\InMemoryUstaRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:54:17.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ParaFormatlayici.cs",
+              "DocumentMoniker": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Infrastructure\\ParaFormatlayici.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Infrastructure\\ParaFormatlayici.cs",
+              "ToolTip": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Infrastructure\\ParaFormatlayici.cs",
+              "RelativeToolTip": "UstaPlatform.Infrastructure\\ParaFormatlayici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:54:03.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Guard.cs",
+              "DocumentMoniker": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Infrastructure\\Guard.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Infrastructure\\Guard.cs",
+              "ToolTip": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Infrastructure\\Guard.cs",
+              "RelativeToolTip": "UstaPlatform.Infrastructure\\Guard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:53:46.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PricingEngine.cs",
+              "DocumentMoniker": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Application\\PricingEngine.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Application\\PricingEngine.cs",
+              "ToolTip": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Application\\PricingEngine.cs",
+              "RelativeToolTip": "UstaPlatform.Application\\PricingEngine.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwE4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:52:54.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Application\\IRepository.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Application\\IRepository.cs",
+              "ToolTip": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Application\\IRepository.cs",
+              "RelativeToolTip": "UstaPlatform.Application\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:52:37.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPricingRule.cs",
+              "DocumentMoniker": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Application\\IPricingRule.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Application\\IPricingRule.cs",
+              "ToolTip": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Application\\IPricingRule.cs",
+              "RelativeToolTip": "UstaPlatform.Application\\IPricingRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:52:22.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Rota.cs",
+              "DocumentMoniker": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Domain\\Rota.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Domain\\Rota.cs",
+              "ToolTip": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Domain\\Rota.cs",
+              "RelativeToolTip": "UstaPlatform.Domain\\Rota.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:51:36.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cizelge.cs",
+              "DocumentMoniker": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Domain\\Cizelge.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Domain\\Cizelge.cs",
+              "ToolTip": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Domain\\Cizelge.cs",
+              "RelativeToolTip": "UstaPlatform.Domain\\Cizelge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:51:21.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IsEmri.cs",
+              "DocumentMoniker": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Domain\\IsEmri.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Domain\\IsEmri.cs",
+              "ToolTip": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Domain\\IsEmri.cs",
+              "RelativeToolTip": "UstaPlatform.Domain\\IsEmri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:51:04.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Talep.cs",
+              "DocumentMoniker": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Domain\\Talep.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Domain\\Talep.cs",
+              "ToolTip": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Domain\\Talep.cs",
+              "RelativeToolTip": "UstaPlatform.Domain\\Talep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:50:45.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Vatandas.cs",
+              "DocumentMoniker": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Domain\\Vatandas.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Domain\\Vatandas.cs",
+              "ToolTip": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Domain\\Vatandas.cs",
+              "RelativeToolTip": "UstaPlatform.Domain\\Vatandas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:50:11.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Usta.cs",
+              "DocumentMoniker": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Domain\\Usta.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Domain\\Usta.cs",
+              "ToolTip": "C:\\Users\\emjey\\Desktop\\2.s\u0131n\u0131fNesne \u00F6devleri\\UstaPlatform10\\UstaPlatform.Domain\\Usta.cs",
+              "RelativeToolTip": "UstaPlatform.Domain\\Usta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:49:37.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

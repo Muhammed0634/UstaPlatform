@@ -1,0 +1,30 @@
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Application\bin\Debug\net8.0\UstaPlatform.Application.deps.json
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Application\bin\Debug\net8.0\UstaPlatform.Application.dll
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Application\bin\Debug\net8.0\UstaPlatform.Application.pdb
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Application\bin\Debug\net8.0\UstaPlatform.Domain.dll
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Application\bin\Debug\net8.0\UstaPlatform.Domain.pdb
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Application\obj\Debug\net8.0\UstaPlatform.Application.csproj.AssemblyReference.cache
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Application\obj\Debug\net8.0\UstaPlatform.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Application\obj\Debug\net8.0\UstaPlatform.Application.AssemblyInfoInputs.cache
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Application\obj\Debug\net8.0\UstaPlatform.Application.AssemblyInfo.cs
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Application\obj\Debug\net8.0\UstaPlatform.Application.csproj.CoreCompileInputs.cache
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Application\obj\Debug\net8.0\UstaPlat.DD103794.Up2Date
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Application\obj\Debug\net8.0\UstaPlatform.Application.dll
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Application\obj\Debug\net8.0\refint\UstaPlatform.Application.dll
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Application\obj\Debug\net8.0\UstaPlatform.Application.pdb
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform.Application\obj\Debug\net8.0\ref\UstaPlatform.Application.dll
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Application\bin\Debug\net8.0\UstaPlatform.Application.deps.json
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Application\bin\Debug\net8.0\UstaPlatform.Application.dll
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Application\bin\Debug\net8.0\UstaPlatform.Application.pdb
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Application\bin\Debug\net8.0\UstaPlatform.Domain.dll
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Application\bin\Debug\net8.0\UstaPlatform.Domain.pdb
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Application\obj\Debug\net8.0\UstaPlatform.Application.csproj.AssemblyReference.cache
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Application\obj\Debug\net8.0\UstaPlatform.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Application\obj\Debug\net8.0\UstaPlatform.Application.AssemblyInfoInputs.cache
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Application\obj\Debug\net8.0\UstaPlatform.Application.AssemblyInfo.cs
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Application\obj\Debug\net8.0\UstaPlatform.Application.csproj.CoreCompileInputs.cache
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Application\obj\Debug\net8.0\UstaPlat.DD103794.Up2Date
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Application\obj\Debug\net8.0\UstaPlatform.Application.dll
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Application\obj\Debug\net8.0\refint\UstaPlatform.Application.dll
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Application\obj\Debug\net8.0\UstaPlatform.Application.pdb
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform.Application\obj\Debug\net8.0\ref\UstaPlatform.Application.dll

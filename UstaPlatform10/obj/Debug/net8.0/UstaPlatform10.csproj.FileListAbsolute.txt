@@ -1,0 +1,28 @@
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform10\bin\Debug\net8.0\UstaPlatform10.exe
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform10\bin\Debug\net8.0\UstaPlatform10.deps.json
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform10\bin\Debug\net8.0\UstaPlatform10.runtimeconfig.json
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform10\bin\Debug\net8.0\UstaPlatform10.dll
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform10\bin\Debug\net8.0\UstaPlatform10.pdb
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform10\obj\Debug\net8.0\UstaPlatform10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform10\obj\Debug\net8.0\UstaPlatform10.AssemblyInfoInputs.cache
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform10\obj\Debug\net8.0\UstaPlatform10.AssemblyInfo.cs
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform10\obj\Debug\net8.0\UstaPlatform10.csproj.CoreCompileInputs.cache
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform10\obj\Debug\net8.0\UstaPlatform10.dll
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform10\obj\Debug\net8.0\refint\UstaPlatform10.dll
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform10\obj\Debug\net8.0\UstaPlatform10.pdb
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform10\obj\Debug\net8.0\UstaPlatform10.genruntimeconfig.cache
+C:\Users\emjey\Desktop\UstaPlatform10\UstaPlatform10\obj\Debug\net8.0\ref\UstaPlatform10.dll
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform10\bin\Debug\net8.0\UstaPlatform10.exe
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform10\bin\Debug\net8.0\UstaPlatform10.deps.json
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform10\bin\Debug\net8.0\UstaPlatform10.runtimeconfig.json
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform10\bin\Debug\net8.0\UstaPlatform10.dll
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform10\bin\Debug\net8.0\UstaPlatform10.pdb
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform10\obj\Debug\net8.0\UstaPlatform10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform10\obj\Debug\net8.0\UstaPlatform10.AssemblyInfoInputs.cache
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform10\obj\Debug\net8.0\UstaPlatform10.AssemblyInfo.cs
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform10\obj\Debug\net8.0\UstaPlatform10.csproj.CoreCompileInputs.cache
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform10\obj\Debug\net8.0\UstaPlatform10.dll
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform10\obj\Debug\net8.0\refint\UstaPlatform10.dll
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform10\obj\Debug\net8.0\UstaPlatform10.pdb
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform10\obj\Debug\net8.0\UstaPlatform10.genruntimeconfig.cache
+C:\Users\emjey\Desktop\2.sınıfNesne ödevleri\UstaPlatform10\UstaPlatform10\obj\Debug\net8.0\ref\UstaPlatform10.dll
